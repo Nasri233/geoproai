@@ -1,0 +1,5 @@
+{
+  "name": "GeoPro",
+  "description": "A professional geolocation app with AI insights, image generation, and a chatbot.",
+  "requestFramePermissions": ["geolocation"]
+}
